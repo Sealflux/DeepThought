@@ -53,7 +53,7 @@ Powered by a Seeed XIAO ESP32-C3
 ## PCB
 ![image](https://cdn.hackclub.com/019f7c6e-845d-7ffd-8bad-6939e30087b6/paste-1784499044930.png)
 
-PCBA
+## PCBA
 ![image](https://cdn.hackclub.com/019f7c6e-085f-72d9-82d4-1823204198e5/paste-1784499012933.png)
 
 ## Case
