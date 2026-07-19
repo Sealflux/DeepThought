@@ -26,3 +26,5 @@ Today I just looked at my PCB and measured out dimensions and began modeling the
 
 Today was very busy with the world cup finals today. Still locked in on the fusion/3d modeling of the case for deepthought! Uhhh it seems that the part design of Day 3 didn't save... Its fine, everything will be okay!
 I finished the case today! Even when setback, its okay! I also updated the BOM to have real costs and finished up the README, i'm ready to ship!!!!
+
+## Lapse Link: https://lapse.hackclub.com/timelapse/7deaLBgo2VRN
