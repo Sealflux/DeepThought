@@ -12,7 +12,7 @@ Powered by a Seeed XIAO ESP32-C3
 - Seeed Xiao ESP32-C3
 - SSD1306 128x64 OLED (I2C)
 - Tactile Push Button
-- 100mAh LiPo Battery
+- 250mAh LiPo Battery
 - 3D-printed case
 
 ## BOM
@@ -21,7 +21,7 @@ Powered by a Seeed XIAO ESP32-C3
 | Seeed Xiao ESP32-C3 | 1 | $6.35 | https://www.seeedstudio.com/Seeed-XIAO-ESP32C3-p-5431.html |
 | SSD1306 0.96" OLED | 1 | $2.24 | https://www.lcsc.com/product-detail/C5248080.html |
 | Tactile Push Button | 50 | $0.56 | https://www.lcsc.com/product-detail/C2888493.html |
-| LiPo 100mAh | 1 | $9.95 | https://www.amazon.com/EEMB-Battery-Rechargeable-Lithium-Connector/dp/B08FD3V6TF |
+| LiPo 250mAh | 1 | $9.95 | https://www.amazon.com/EEMB-Battery-Rechargeable-Lithium-Connector/dp/B08FD3V6TF |
 | PCB Board | 5 | $2.10 | https://www.jlcpcb.com | 
 | Shipping | 1 | $52.39 | $6.20(Seeed) + $11.33(LCSC) + $6.99(Amazon) + $27.87(JLCPCB) |
 
