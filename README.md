@@ -1,7 +1,7 @@
 # DeepThought
 A pocket keychain that displays DeepSeek quotes on an OLED at the push of a button. 
 Powered by a Seeed XIAO ESP32-C3
-
+## Built for Horizons Polaris Hack Club
 ## Features
 - Press button to cycle through DeepSeek quotes
 - 128x64 OLED Display
